@@ -7,7 +7,7 @@ I'm Karthikmohan Jala, a Computer Science graduate and Software Engineer & Data 
 🛠 Tech Stack:  
 - Languages: Python, Java, SQL  
 - ML/Data: Polars, Pandas, NumPy, Scikit-learn, TensorFlow  
-- Backend Tools: Flask, Git, Docker, Django, selenium, 
+- Backend Tools: Streamlit, Flask, Git, Docker, Django, selenium, 
 
 📫 How to reach me: [Email](karthikmohan.jala@gmail.com)
 
