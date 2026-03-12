@@ -6,10 +6,15 @@ I'm Karthikmohan Jala, AI Engineer with experience building production AI system
 
 🛠 Tech Stack:  
 • AI/ML: PyTorch, Scikit-learn, NumPy, Polars, Pandas, CNNs, Predictive Modeling, Feature Engineering
+
 • LLM/GenAI Systems: LangChain, Ollama, RAG, MCP, OpenAI API, Google API, Prompt Engineering, Hugging Face
+
 • Backend/API Dev: FastAPI, Flask, Django, REST APIs, Uvicorn
+
 • Frontend: React, Typescript, Vite, Streamlit
+
 • Data: SQLite, Microsoft SQL Server, MySQL
+
 • Tools: Docker, Git, Selenium, Linux
 
 📫 How to reach me: [Email](karthikmohan.jala@gmail.com)
