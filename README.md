@@ -17,9 +17,11 @@ I'm Karthikmohan Jala, AI Engineer with experience building production AI system
 
 • Tools: Docker, Git, Selenium, Linux
 
+
 📫 How to reach me: [Email](karthikmohan.jala@gmail.com)
 
-⚡ Fun fact: I temporarily moved to another country to pursue a startup opportunity. 
+
+⚡ Fun fact: I temporarily moved to another country to pursue a project opportunity. 
 
 <!--
 **Karthikmohan25/karthikmohan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
