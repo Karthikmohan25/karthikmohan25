@@ -15,8 +15,8 @@ I'm Karthikmohan Jala, AI Engineer with experience building production AI system
 
 • Data: SQLite, Microsoft SQL Server, MySQL
 
-• Tools: Docker, Git, Selenium, Linux <br />
-
+• Tools: Docker, Git, Selenium, Linux
+<br><br><br>
 
 📫 How to reach me: [Email](karthikmohan.jala@gmail.com)
 
