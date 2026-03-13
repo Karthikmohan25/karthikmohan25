@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 I'm Karthikmohan Jala, AI Engineer with experience building production AI systems, including LLM-powered applications, predictive analytics models, and full-stack data platforms. Passionate about building scalable, real-world AI solutions.
+<br><br>
 
 🔭 I’m currently working at Dscvry AI, where I colaborate with clients to solve their toughest business challenges with custom AI solutions. 
+<br><br>
 
 🛠 Tech Stack:  
 • AI/ML: PyTorch, Scikit-learn, NumPy, Polars, Pandas, CNNs, Predictive Modeling, Feature Engineering
@@ -18,7 +20,8 @@ I'm Karthikmohan Jala, AI Engineer with experience building production AI system
 • Tools: Docker, Git, Selenium, Linux
 <br><br>
 
-📫 How to reach me: [Email](karthikmohan.jala@gmail.com) <br><br>
+📫 How to reach me: [Email](karthikmohan.jala@gmail.com) 
+<br><br>
 
 
 ⚡ Fun fact: I temporarily moved to another country to pursue a project opportunity. 
