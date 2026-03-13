@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm Karthikmohan Jala, AI Engineer with experience building production AI systems, including LLM-powered applications, predictive analytics models, and full-stack data platforms. Passionate about building scalable, real-world AI solutions.
+I'm **Karthikmohan Jala**, AI Engineer with experience building production AI systems, including LLM-powered applications, predictive analytics models, and full-stack data platforms. Passionate about building scalable, real-world AI solutions.
 <br><br>
 
 🔭 I’m currently working at Dscvry AI, where I colaborate with clients to solve their toughest business challenges with custom AI solutions. 
 <br><br>
 
-🛠 Tech Stack:  
+🛠 **Tech Stack**:  
 • AI/ML: PyTorch, Scikit-learn, NumPy, Polars, Pandas, CNNs, Predictive Modeling, Feature Engineering
 
 • LLM/GenAI Systems: LangChain, Ollama, RAG, MCP, OpenAI API, Google API, Prompt Engineering, Hugging Face
@@ -20,11 +20,11 @@ I'm Karthikmohan Jala, AI Engineer with experience building production AI system
 • Tools: Docker, Git, Selenium, Linux
 <br><br>
 
-📫 How to reach me: [Email](karthikmohan.jala@gmail.com) 
+📫 **How to reach me**: [Email](karthikmohan.jala@gmail.com) 
 <br><br>
 
 
-⚡ Fun fact: I temporarily moved to another country to pursue a project opportunity. 
+⚡ **Fun fact**: I temporarily moved to another country to pursue a project opportunity. 
 
 <!--
 **Karthikmohan25/karthikmohan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
